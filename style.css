@@ -1,0 +1,41 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+#product-list .card {
+  margin-bottom: 20px;
+}
+
+#shopping-cart {
+  display: none;
+}
+
+#shopping-cart table {
+  margin-top: 20px;
+}
+
+#shopping-cart table th {
+  text-align: center;
+}
+
+#shopping-cart table td {
+  vertical-align: middle;
+}
+
+#shopping-cart table td:last-child {
+  text-align: right;
+}
+
+#shopping-cart table tfoot td:first-child {
+  text-align: right;
+}
+
+#shopping-cart table tfoot td:last-child {
+  font-weight: bold;
+}
+h2{
+  text-align: center;
+  color: blueviolet;
+  
+}
